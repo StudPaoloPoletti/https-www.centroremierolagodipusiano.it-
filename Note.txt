@@ -1,0 +1,14 @@
+- Necessario scrivere una breve descrizione per ogni singola pagina per la meta description e la meta og:description;
+- preparare una pagina per gli itinerari turistici;
+- inserire in tutte le pagine che non siano le pagine IT quello che sarà in futuro il loro link, così da renderle accessibili
+  tramite condivisione online;
+- inserire privacy
+- inserire avviso per consenso all'utilizo dei cookie nelle pagine diverse dalla index
+- pagine per i soci e i partner
+- mamo19rattix consentire accesso
+- inserire href della cookie policy dentro all'avviso dell'utilizzo cookie
+- inserire cookie in tutte le pagine
+- correggere head tradotte
+- aggiungere pagine tradotte ai menu
+- controllare tutti i file partner (IG e FB in particolare)
+- mettere href pagine tradotte
