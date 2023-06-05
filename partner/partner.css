@@ -1,0 +1,33 @@
+#titolo p {
+    display: block;
+    text-align: center;
+}
+div#paragrafo {
+    color: #0a3b72;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 17px;
+    margin: 0% 15% 0% 15%;
+    text-align: left;
+}
+@media screen and (max-width:900px) {
+    div#paragrafo {
+        text-align: center;
+    }
+}
+#imgapripagpartner {
+    min-width: 120px;
+}
+#containerpartner {
+    min-height: 175px;
+}
+div#socialpartner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.imgsocialpartner {
+    height: 35px;
+    width: auto;
+    margin: 30px 50px 25px 50px;
+}
